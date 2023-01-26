@@ -1,4 +1,4 @@
-# StableDiffiusion
+# StableDiffusion
 I am self studying about this Stable Diffusion. And I will put my findings here.
 
 Go to the Master Branch for the backend code. Frontend code will be updated
